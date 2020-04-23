@@ -7,5 +7,6 @@ Best Data
   - https://lionbridge.ai/datasets/top-10-stock-market-datasets-for-machine-learning/
   - https://www.quandl.com/ 
   - https://github.com/addisonlynch/iexfinance
+  - https://github.com/evonshahriar/stock-quotes
 
 - Current https://www.nasdaq.com/market-activity/stocks/screener 
