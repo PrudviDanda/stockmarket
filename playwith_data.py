@@ -1,7 +1,7 @@
 import os
 import matplotlib.pyplot as plt
 import pandas as pd
-
+# https://www.dataquest.io/blog/how-to-analyze-survey-data-python-beginner/ 
 basepath = r'C:\Users\Prudvi\Downloads\stock-market-dataset\stocks'
 
 with os.scandir(basepath) as entries:
