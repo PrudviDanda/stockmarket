@@ -1,0 +1,3 @@
+yfinance
+lxml
+pandas_datareader >= 0.4.0
