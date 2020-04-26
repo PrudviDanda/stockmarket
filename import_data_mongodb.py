@@ -18,8 +18,7 @@ with os.scandir(basepath_stocks) as entries:
     count =0
     for entry in entries:
         if count < 10000000:
-            #os.system("ls")
-            #print("& \"{0}\" --db {1} --collection {2} --type csv --headerline --file {3} --numInsertionWorkers 5".format(mongo_import,MDB_DB_NAME,MDB_COL_NAME,entry.path))
+            print(entry.path)
             os.system("cmd /c \"{0}\" --db {1} --collection {2} --type csv --headerline --file {3} --numInsertionWorkers 5".format(mongo_import,MDB_DB_NAME,MDB_COL_NAME,entry.path))
         else :
             break

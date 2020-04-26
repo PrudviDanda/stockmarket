@@ -15,8 +15,9 @@ Best Data
 - Most Useful https://public.tableau.com/profile/boone5338#!/vizhome/ETFAnalysis_15845849435160/SearchETFsHoldingaStock 
 - http://www.econ.yale.edu/~shiller/data.htm
 
-###Python 
+### Python 
 Data
 - https://www.dataquest.io/blog/how-to-analyze-survey-data-python-beginner/
+
 Files
 - https://realpython.com/working-with-files-in-python/
