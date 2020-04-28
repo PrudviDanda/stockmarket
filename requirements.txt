@@ -1,8 +1,9 @@
-yfinance
-lxml
-pandas_datareader >= 0.4.0
-matplotlib
+# yfinance
+# lxml
+# pandas_datareader >= 0.4.0
+# matplotlib
 pandas
-tkinter
-pymongo
+# tkinter
+# pymongo
 sqlalchemy
+mysqlclient

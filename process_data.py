@@ -1,8 +1,10 @@
 import os
 import pandas as pd
 
-basepath_stocks = r'C:\Users\Prudvi\Downloads\stock-market-dataset\stocks'
-new_basepath_stocks = r"C:\Users\Prudvi\Downloads\Stock-Market\Stocks"
+# basepath_stocks = r'C:\Users\Prudvi\Downloads\stock-market-dataset\stocks'
+basepath_stocks = r'/mnt/c/Users/Prudvi/Downloads/stock-market-dataset/etfs'
+# new_basepath_stocks = r"C:\Users\Prudvi\Downloads\Stock-Market\Stocks"
+new_basepath_stocks = r'/mnt/c/Users/Prudvi/Downloads/Stock-Market/Etfs'
 
 with os.scandir(basepath_stocks) as entries:
     count =0
